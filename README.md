@@ -4,7 +4,7 @@
 
 - 💬 How to reach me:
   - WeChat: `YiBai_XL`
-  - E-mail:  `987313405@qq\.com`
+  - E-mail:  `987313405@qq.com`
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=leishao06)](https://github.com/anuraghazra/github-readme-stats)![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leishao06&layout=compact&hide_border=true&langs_count=10)
 
