@@ -1,8 +1,6 @@
 ### Hi Welcome to My Github 👋
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=leishao06)](https://github.com/anuraghazra/github-readme-stats)
-
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leishao06&layout=compact&hide_border=true&langs_count=10)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=leishao06)](https://github.com/anuraghazra/github-readme-stats) ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leishao06&layout=compact&hide_border=true&langs_count=10)
 
 <!--
 **leishao06/leishao06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
