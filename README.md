@@ -1,6 +1,6 @@
 ### Hi Welcome to My Github 👋
 
-[!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=这里替换成你的 GitHub ID)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=leishao06)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leishao06&layout=compact&hide_border=true&langs_count=10)
 
